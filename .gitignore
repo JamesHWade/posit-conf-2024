@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+posit-conf-2024_files
+rsconnect
+.DS_Store
