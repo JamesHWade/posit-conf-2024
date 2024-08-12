@@ -38,11 +38,9 @@ format:
 
 Over [**half**]{.yellow} of Posit Academy learners gave AI code assistants a [**2 star rating or less**]{.yellow}.
 
-<!-- ![](images/clipboard-3560254416.png) -->
-
 ## {background-color="#f5d253"}
 
-![](images/sad-robot.png){fig-align="center"}
+![](images/sad-robot-3.png){fig-align="center"}
 
 ##  {.center}
 
@@ -69,19 +67,21 @@ So what's missing?
 
 ## What Are Threshold Concepts? {.center background-color="#f5d253" auto-animate="true"}
 
-. . . 
+. . .
 
-<br> 
+<br>
 
 These are ideas that, once understood, [transform your perception]{.darkblue} and approach of a discipline.
 
-. . . 
+. . .
 
-<br> 
+<br>
 
 Threshold concepts must be [encountered]{.darkblue}.
 
-## [Threshold concepts: [embrace the struggle]{.darkblue}]{.r-fit-text} {.center background-color="#f5d253" auto-animate="true"}
+## [Threshold concepts:[embrace the struggle]{.darkblue}]{.r-fit-text} {.center background-color="#f5d253" auto-animate="true"}
+
+<br>
 
 ::: {.incremental .highlight-last .r-fit-text}
 -   **Troublesome**: Conceptually difficult, challenge prior knowledge
@@ -90,13 +90,15 @@ Threshold concepts must be [encountered]{.darkblue}.
 -   **Irreversible**: Once understood, you cannot unlearn it
 :::
 
+<br>
+
 ::: footer
 Explore more: [*Naming What We Know*](https://upcolorado.com/utah-state-university-press/item/2965-naming-what-we-know-classroom-edition) by Adler-Kassner & Wardle (2016)
 :::
 
 ## [My rewarding, high-growth period]{.r-fit-text}
 
-. . . 
+. . .
 
 ![](images/babies.png){.absolute top="200" left="500" width="500"}
 
@@ -130,7 +132,6 @@ Learning *dispositions* for code-based data science
 
     *An internal sense of capability and persistence*
 
-
 . . .
 
 2.  [Flexibility]{.darkblue}
@@ -147,10 +148,9 @@ Learning *dispositions* for code-based data science
 > Of course, that question assumes your destination is well-known and clearly charted on some map. But those most rewarding high-growth experiences are often centered on a creative project. You’re trying to get somewhere no one’s ever gone before—to reach the frontier, then start charting links into the unknown. Learning in service of creation. It’s a dynamic, context-laden kind of learning. It’s about more than just efficiency and correctness. More than just faster gears on a bike. That’s the kind of learning I feel an almost moral imperative to help create. Source: https://andymatuschak.org/hmwl/
 :::
 
-## {.center background-image="images/cello.png"}
+##  {.center background-image="images/cello.png"}
 
-:::: {.columns}
-
+::: columns
 ::: {.column width="10%"}
 :::
 
@@ -161,14 +161,11 @@ Coding as a
 ::: {.column width="40%"}
 [contingent]{.yellow} discipline
 :::
-
-::::
-
+:::
 
 ::: notes
 -   We discover what we want to build as we build it --\> so we should use ChatGPT to shorten the iteration cycles
 :::
-
 
 ## [Posit Academy Foundations Curriculum]{.r-fit-text} {auto-animate="true" auto-animate-easing="ease-in-out"}
 
@@ -178,15 +175,19 @@ Coding as a
 ::: {data-id="item1" style="background: #ff595e; width: 500px; height: 80px; margin: 15px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 R Basics
 :::
+
 ::: {data-id="item2" style="background: #ffca3a; width: 500px; height: 80px; margin: 15px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 Read & Visualize
 :::
+
 ::: {data-id="item3" style="background: #8ac926; width: 500px; height: 80px; margin: 15px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 Summarize Data
 :::
+
 ::: {data-id="item4" style="background: #1982c4; width: 500px; height: 80px; margin: 15px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 Create & Select Columns
 :::
+
 ::: {data-id="item5" style="background: #fd7e14; width: 500px; height: 80px; margin: 15px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 Tidy & Join Tables
 :::
@@ -198,15 +199,19 @@ Tidy & Join Tables
 ::: {data-id="item6" style="background: #ff595e; width: 500px; height: 80px; margin: 15px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 Write Functions
 :::
+
 ::: {data-id="item7" style="background: #ffca3a; width: 500px; height: 80px; margin: 15px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 Work with Data Types
 :::
+
 ::: {data-id="item8" style="background: #8ac926; width: 500px; height: 80px; margin: 15px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 Analyze Data
 :::
+
 ::: {data-id="item9" style="background: #1982c4; width: 500px; height: 80px; margin: 15px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 Showcase Results
 :::
+
 ::: {data-id="item10" style="background: #fd7e14; width: 500px; height: 80px; margin: 15px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 Iterate
 :::
@@ -310,9 +315,9 @@ Iterate
 
 <br>
 
-::: {.r-stack}
+::: r-stack
 ::: {data-id="box1" style="background: #8ac926; border: 8px solid #8ac926; width: 800px; height: 150px; border-radius: 25px; text-align: center; display: flex; align-items: center; justify-content: center; font-weight: bold; color: white; margin-left: 0px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);"}
-"Explain this code piece by piece"  
+"Explain this code piece by piece"\
 "Show me how to group by two columns"
 :::
 :::
@@ -367,10 +372,9 @@ Iterate
 
 <br>
 
-::: {.r-stack} 
-::: {data-id="box1" style="background: #ff595e; border: 8px solid #ff595e; width: 750px; height: 150px; border-radius: 25px; text-align: center; display: flex; align-items: center; justify-content: center; font-weight: bold; color: white; margin-left: 50px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);"} 
-"Add a roxygen skeleton to my code"
-"Suggest 3 ways to improve my code"
+::: r-stack
+::: {data-id="box1" style="background: #ff595e; border: 8px solid #ff595e; width: 750px; height: 150px; border-radius: 25px; text-align: center; display: flex; align-items: center; justify-content: center; font-weight: bold; color: white; margin-left: 50px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);"}
+"Add a roxygen skeleton to my code" "Suggest 3 ways to improve my code"
 :::
 :::
 
@@ -384,30 +388,39 @@ Iterate
 ::: {data-id="item1" style="width: 75px; height: 75px; border-radius: 50%; border: 4px solid #ff595e; background: white; margin: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #ff595e; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 1
 :::
+
 ::: {data-id="item2" style="width: 75px; height: 75px; border-radius: 50%; border: 4px solid #ffca3a; background: white; margin: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #ffca3a; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 2
 :::
+
 ::: {data-id="item3" style="width: 75px; height: 75px; border-radius: 50%; border: 4px solid #8ac926; background: white; margin: 10px; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #8ac926; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 3
 :::
+
 ::: {data-id="item4" style="width: 75px; height: 75px; border-radius: 50%; border: 4px solid #1982c4; background: white; margin: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #1982c4; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 4
 :::
+
 ::: {data-id="item5" style="width: 75px; height: 75px; border-radius: 50%; border: 4px solid #fd7e14; background: white; margin: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #fd7e14; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 5
 :::
+
 ::: {data-id="item6" style="width: 75px; height: 75px; border-radius: 50%; border: 4px solid #ff595e; background: white; margin: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #ff595e; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 6
 :::
+
 ::: {data-id="item7" style="width: 75px; height: 75px; border-radius: 50%; border: 4px solid #ffca3a; background: white; margin: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #ffca3a; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 7
 :::
+
 ::: {data-id="item8" style="width: 75px; height: 75px; border-radius: 50%; border: 4px solid #8ac926; background: white; margin: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #8ac926; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 8
 :::
+
 ::: {data-id="item9" style="width: 110px; height: 110px; border-radius: 50%; border: 4px solid #1982c4; background: #1982c4; margin: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; color: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 9
 :::
+
 ::: {data-id="item10" style="width: 75px; height: 75px; border-radius: 50%; border: 4px solid #fd7e14; background: white; margin: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #fd7e14; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"}
 10
 :::
@@ -415,28 +428,48 @@ Iterate
 
 <br>
 
-::: {.r-stack} 
-::: {data-id="box1" style="background: #1982c4; border: 8px solid #1982c4; width: 700px; height: 150px; border-radius: 25px; text-align: center; display: flex; align-items: center; justify-content: center; font-weight: bold; color: white; margin-right: 0px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);"} 
-Try out code assistants in the IDE
-"What pkgs should I explore next?"
+::: r-stack
+::: {data-id="box1" style="background: #1982c4; border: 8px solid #1982c4; width: 700px; height: 150px; border-radius: 25px; text-align: center; display: flex; align-items: center; justify-content: center; font-weight: bold; color: white; margin-right: 0px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);"}
+Try out code assistants in the IDE "What pkgs should I explore next?"
 :::
 :::
 
+##  {background-color="#f5d253"}
+
+![](images/happy-robot.png){fig-align="center"}
 
 ## [What are [threshold concepts]{.yellow} for AI coding assistants?]{.r-fit-text}
 
-:::{.incremental}
-Some ideas... 
+::: incremental
+Some ideas...
 
-1.  AI code assistants as a tool, not a crutch
-2.  Code is a contingent discipline
-3.  Iterative learning in service of creation
+1.  Drive faster with coding assistants but don't forget to steer
+2.  Prompting matters: learning to use these AI tools is a skill
+3.  ...?
 :::
 
-. . . 
+. . .
 
 <hr>
 
 Are these right? What's missing?
 
-<!-- ## Acknowledgements {.center} -->
+## Acknowledgements {.center .smaller}
+
+::: {.columns .r-fit-text}
+::: {.column width="50%"}
+-  [Tony Sokolov]{.yellow}
+-  Michael Hausinger
+-  Our (Apprentice) Mentors
+-  Dow's Academy learners
+-  Dow Leaders
+:::
+::: {.column}
+-  Lindsay Lintelman
+-  Kristin Bott
+-  Ibi Togun
+-  Brian Law
+-  Eric Pite
+-  *Many* Academy Mentors
+:::
+:::
