@@ -10,7 +10,6 @@ footer: "posit::conf(2024)"
 format: 
   revealjs:
     logo: images/dow.svg
-    slide-number: true
     preview-links: auto
     margin: 0.05
     fig-align: center
@@ -454,17 +453,18 @@ Some ideas...
 
 Are these right? What's missing?
 
-## Acknowledgements {.center .smaller}
+## [🙏 Thank you to those who make it happen! 🙏]{.r-fit-text} {.center .smaller}
 
-::: {.columns .r-fit-text}
+::: {.columns}
 ::: {.column width="50%"}
 -  [Tony Sokolov]{.yellow}
 -  Michael Hausinger
--  Our (Apprentice) Mentors
--  Dow's Academy learners
+-  Lynette Naler
+-  Dow (Apprentice) Mentors
+-  Dow's Academy Learners
 -  Dow Leaders
 :::
-::: {.column}
+::: {.column width="50%"}
 -  Lindsay Lintelman
 -  Kristin Bott
 -  Ibi Togun
