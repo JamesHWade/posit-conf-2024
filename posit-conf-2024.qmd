@@ -5,7 +5,7 @@ author: "James Wade"
 title-slide-attributes:
   data-background-image: "images/posit-academy-robot-classroom.jpeg"
   data-background-size: contain
-  data-background-opacity: "0.4"
+  data-background-opacity: "0.3"
 footer: "posit::conf(2024)"
 format: 
   revealjs:
@@ -27,17 +27,31 @@ format:
 -   Growing community of [**citizen**]{.yellow} data scientists
 :::
 
-## GenAI as Rocket Fuel 🚀
+## GenAI as Rocket Fuel 🚀 {.center}
 
-![*Turn 💡ideas💡 into ✨shiny✨ apps in R or python*](images/shiny_r_and_python.gif){width="50%"}
+<br>
 
-![](images/clipboard-570134994.png){.absolute top="0%" right="0%" width="15%"}
+:::{.columns}
+:::{.column width="33%"}
+![[`{chattr}`](https://github.com/mlverse/chattr)](images/chattr.png){height="250px"}
+:::
+
+:::{.column width="33%"}
+![[`{gptstudio}`](https://github.com/michelnivard/gptstudio)](images/clipboard-570134994.png){width="250px"}
+:::
+
+:::{.column width="33%"}
+![[Github Copilot](https://github.com/features/copilot)](images/github-copilot.png){height="250px"}
+:::
+
+:::
+
 
 ##  {.center}
 
 Over [**half**]{.yellow} of Posit Academy learners gave AI code assistants a [**2 star rating or less**]{.yellow}.
 
-## {background-color="#f5d253"}
+## {.gradient-yellow background-color="#f5d253"}
 
 ![](images/sad-robot-3.png){fig-align="center"}
 
@@ -56,7 +70,7 @@ Over [**half**]{.yellow} of Posit Academy learners gave AI code assistants a [**
 :::
 :::
 
-##  {.center background-color="#f5d253"}
+##  {.center .gradient-yellow background-color="#f5d253"}
 
 So what's missing?
 
@@ -64,7 +78,7 @@ So what's missing?
 
 **Threshold Concepts**
 
-## What Are Threshold Concepts? {.center background-color="#f5d253" auto-animate="true"}
+## What Are Threshold Concepts? {.center .gradient-yellow background-color="#f5d253" auto-animate="true"}
 
 . . .
 
@@ -78,7 +92,7 @@ These are ideas that, once understood, [transform your perception]{.darkblue} an
 
 Threshold concepts must be [encountered]{.darkblue}.
 
-## [Threshold concepts:[embrace the struggle]{.darkblue}]{.r-fit-text} {.center background-color="#f5d253" auto-animate="true"}
+## [Threshold concepts:  [embrace the struggle]{.darkblue}]{.r-fit-text} {.center .gradient-yellow background-color="#f5d253" auto-animate="true"}
 
 <br>
 
@@ -107,7 +121,7 @@ Explore more: [*Naming What We Know*](https://upcolorado.com/utah-state-universi
 3.  Incomplete todo lists are okay
 :::
 
-## [Threshold Concepts in Data Science]{.r-fit-text} {.center background-color="#f5d253"}
+## [Threshold Concepts in Data Science]{.r-fit-text} {.center .gradient-yellow background-color="#f5d253"}
 
 ::: columns
 ::: {.column width="60%"}
@@ -121,7 +135,7 @@ Explore more: [*Naming What We Know*](https://upcolorado.com/utah-state-universi
 :::
 :::
 
-## What ChatGPT *won't* give you {.center background-color="#f5d253"}
+## What ChatGPT *won't* give you {.center .gradient-yellow background-color="#f5d253"}
 
 Learning *dispositions* for code-based data science
 
@@ -433,17 +447,17 @@ Try out code assistants in the IDE "What pkgs should I explore next?"
 :::
 :::
 
-##  {background-color="#f5d253"}
+##  {.gradient-yellow background-color="#f5d253"}
 
 ![](images/happy-robot.png){fig-align="center"}
 
 ## [What are [threshold concepts]{.yellow} for AI coding assistants?]{.r-fit-text}
 
-::: incremental
 Some ideas...
 
-1.  Drive faster with coding assistants but don't forget to steer
-2.  Prompting matters: learning to use these AI tools is a skill
+::: {.incremental .r-fit-text}
+1.  Drive faster but don't forget to steer
+2.  Prompting matters: learning to use these tools is a skill
 3.  ...?
 :::
 
