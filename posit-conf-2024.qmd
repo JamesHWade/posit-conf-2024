@@ -451,11 +451,12 @@ Try out code assistants in the IDE "What pkgs should I explore next?"
 
 ![](images/happy-robot.png){fig-align="center"}
 
-## [What are [threshold concepts]{.yellow} for AI coding assistants?]{.r-fit-text}
+## [What are [TCs]{.yellow} for coding assistants?]{.r-fit-text}
 
-Some ideas...
 
 ::: {.incremental .r-fit-text}
+Some ideas...
+
 1.  Drive faster but don't forget to steer
 2.  Prompting matters: learning to use these tools is a skill
 3.  ...?
@@ -487,3 +488,5 @@ Are these right? What's missing?
 -  *Many* Academy Mentors
 :::
 :::
+
+Slides: [https://jameshwade.github.io/posit-conf-2024](https://jameshwade.github.io/posit-conf-2024)
